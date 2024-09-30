@@ -14,7 +14,5 @@
 </div><br/>
 
 
-Além das tecnologias, sou adepta da metodologia ágil Scrum, o que me permite colaborar de forma eficaz em equipes e gerenciar projetos de maneira dinâmica.
-
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
